@@ -32,9 +32,6 @@
   <a href="https://www.linkedin.com/in/mohammed--reda/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/M07ammed_reda">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
   <a href="https://codeforces.com/profile/Mohamed-Reda">
     <img src="https://img.shields.io/badge/Codeforces-445F9D?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
