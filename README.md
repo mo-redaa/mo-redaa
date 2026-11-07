@@ -26,25 +26,8 @@
 ### Connect
 
 <p align="center">
-  <a href="mailto:mohamed.redaa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed--reda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://codeforces.com/profile/Mohamed-Reda">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/u/M0hamed-Reda/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mo-redaa&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <a href="mailto:mohamed.redaa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mohammed--reda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://codeforces.com/profile/Mohamed-Reda"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://leetcode.com/u/M0hamed-Reda/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
